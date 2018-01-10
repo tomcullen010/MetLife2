@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="App Request" max_length="40" name="x_snc_met_choices_app_request" type="collection">
+        <element label="Application" max_length="32" name="application" reference="x_snc_met_choices_application" type="reference"/>
+        <element label="Field Specifics" max_length="32" name="field_specifics" reference="x_snc_met_choices_field_specifics" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Support Category" max_length="32" name="support_category" reference="x_snc_met_choices_category" type="reference"/>
+        <element label="Support Type" max_length="32" name="support_type" reference="x_snc_met_choices_types" type="reference"/>
+        <index name="index">
+            <element name="field_specifics"/>
+        </index>
+        <index name="index2">
+            <element name="application"/>
+        </index>
+        <index name="index3">
+            <element name="support_category"/>
+        </index>
+        <index name="index4">
+            <element name="support_type"/>
+        </index>
+    </element>
+</database>

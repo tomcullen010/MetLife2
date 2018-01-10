@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_filter_option_dynamic">
+    <sys_filter_option_dynamic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for_default>false</available_for_default>
+        <available_for_filter>false</available_for_filter>
+        <available_for_ref_qual>false</available_for_ref_qual>
+        <field_type display_value="Reference">52a227c1bf3320001875647fcf07396a</field_type>
+        <filter_by_schedule/>
+        <label>Support Category</label>
+        <order>10</order>
+        <roles/>
+        <script>app_name==current.variables.application;</script>
+        <script_reference_id/>
+        <script_reference_table/>
+        <sys_class_name>sys_filter_option_dynamic</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2018-01-09 18:31:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8f23ddb113270300d70550f82244b07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Category</sys_name>
+        <sys_package display_value="Met Choices" source="x_snc_met_choices">0a13bf5513af8740d70550f82244b017</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Met Choices">0a13bf5513af8740d70550f82244b017</sys_scope>
+        <sys_update_name>sys_filter_option_dynamic_8f23ddb113270300d70550f82244b07a</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2018-01-09 18:31:33</sys_updated_on>
+        <table>x_snc_met_choices_category</table>
+        <table_containing_filter/>
+    </sys_filter_option_dynamic>
+</record_update>

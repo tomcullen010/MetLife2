@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_met_choices.app_request_user" name="x_snc_met_choices.app_request_user">55879ce913ef8740d70550f82244b062</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2018-01-08 19:27:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5d879ce913ef8740d70550f82244b064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>55879ce913ef8740d70550f82244b062</sys_name>
+        <sys_package display_value="Met Choices" source="x_snc_met_choices">0a13bf5513af8740d70550f82244b017</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Met Choices">0a13bf5513af8740d70550f82244b017</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5d879ce913ef8740d70550f82244b064</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2018-01-08 19:27:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

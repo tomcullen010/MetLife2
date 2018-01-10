@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Category" max_length="40" name="x_snc_met_choices_category" type="collection">
+        <element label="App Name" max_length="32" name="app_name" reference="x_snc_met_choices_application" type="reference"/>
+        <element label="Order" max_length="40" name="order" type="string"/>
+        <element display="true" label="Support Category" max_length="40" name="support_category" type="string"/>
+        <index name="index">
+            <element name="app_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Field Specifics" max_length="40" name="x_snc_met_choices_field_specifics" type="collection">
+        <element label="Application Name" max_length="32" name="application_name" reference="x_snc_met_choices_application" type="reference"/>
+        <element display="true" label="Field Choices" max_length="40" name="field_choices" type="string"/>
+        <element label="Field Specific" max_length="40" name="field_specific" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <index name="index">
+            <element name="application_name"/>
+        </index>
+    </element>
+</database>

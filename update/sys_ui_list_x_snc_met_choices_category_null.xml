@@ -4,32 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>app_name</element>
-            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0ae5ff1913af8740d70550f82244b0cc</list_id>
+            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0123665a13a74300d70550f82244b009</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tom.cullen</sys_created_by>
-            <sys_created_on>2018-01-08 17:00:23</sys_created_on>
-            <sys_id>8ee5ff1913af8740d70550f82244b0cc</sys_id>
+            <sys_created_on>2018-01-11 13:32:42</sys_created_on>
+            <sys_id>8523665a13a74300d70550f82244b009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tom.cullen</sys_updated_by>
-            <sys_updated_on>2018-01-08 17:00:23</sys_updated_on>
+            <sys_updated_on>2018-01-11 13:32:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>support_category</element>
-            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0ae5ff1913af8740d70550f82244b0cc</list_id>
+            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0123665a13a74300d70550f82244b009</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>tom.cullen</sys_created_by>
-            <sys_created_on>2018-01-08 17:00:23</sys_created_on>
-            <sys_id>02e5ff1913af8740d70550f82244b0cd</sys_id>
+            <sys_created_on>2018-01-11 13:32:42</sys_created_on>
+            <sys_id>0923665a13a74300d70550f82244b009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tom.cullen</sys_updated_by>
-            <sys_updated_on>2018-01-08 17:00:23</sys_updated_on>
+            <sys_updated_on>2018-01-11 13:32:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0123665a13a74300d70550f82244b009</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 13:32:42</sys_created_on>
+            <sys_id>8923665a13a74300d70550f82244b009</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:32:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="x_snc_met_choices_category" element="NULL" name="x_snc_met_choices_category" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0123665a13a74300d70550f82244b009</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 13:32:42</sys_created_on>
+            <sys_id>0d23665a13a74300d70550f82244b009</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 13:32:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -43,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
-            <sys_created_on>2018-01-08 17:00:23</sys_created_on>
+            <sys_created_on>2018-01-11 13:32:42</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0ae5ff1913af8740d70550f82244b0cc</sys_id>
+            <sys_id>0123665a13a74300d70550f82244b009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_met_choices_category</sys_name>
             <sys_package display_value="Met Choices" source="x_snc_met_choices">0a13bf5513af8740d70550f82244b017</sys_package>
@@ -56,7 +86,7 @@
             <sys_scope display_value="Met Choices">0a13bf5513af8740d70550f82244b017</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_met_choices_category_null</sys_update_name>
             <sys_updated_by>tom.cullen</sys_updated_by>
-            <sys_updated_on>2018-01-08 17:00:23</sys_updated_on>
+            <sys_updated_on>2018-01-11 13:32:42</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

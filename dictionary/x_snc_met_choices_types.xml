@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Types" max_length="40" name="x_snc_met_choices_types" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Order" max_length="40" name="order" type="string"/>
         <element label="Support Category" max_length="32" name="support_category" reference="x_snc_met_choices_category" type="reference"/>
         <element display="true" label="Support Type" max_length="40" name="support_type" type="string"/>

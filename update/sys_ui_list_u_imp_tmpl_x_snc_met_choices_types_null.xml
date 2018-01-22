@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_snc_met_choices_types" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>9002badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>1402badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>9402badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>1802badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>9802badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="u_imp_tmpl_x_snc_met_choices_types" element="NULL" name="u_imp_tmpl_x_snc_met_choices_types" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c02badedb2b0380a8a6ff041d9619a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_id>1c02badedb2b0380a8a6ff041d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_snc_met_choices_types</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 14:37:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c02badedb2b0380a8a6ff041d9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_snc_met_choices_types</sys_name>
+            <sys_package display_value="Met Choices" source="x_snc_met_choices">0a13bf5513af8740d70550f82244b017</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Met Choices">0a13bf5513af8740d70550f82244b017</sys_scope>
+            <sys_update_name>sys_ui_list_u_imp_tmpl_x_snc_met_choices_types_null</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 14:37:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

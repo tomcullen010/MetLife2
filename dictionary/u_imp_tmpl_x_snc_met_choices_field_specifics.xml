@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Met Choices Field Specifics" max_length="40" name="u_imp_tmpl_x_snc_met_choices_field_specifics" type="collection">
+        <element attributes="import_attribute_name=Active,edge_encryption_enabled=true" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Name" max_length="40" name="u_application_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field Choices" max_length="40" name="u_field_choices" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field Specific" max_length="40" name="u_field_specific" type="string"/>
+        <element attributes="import_attribute_name=Order,edge_encryption_enabled=true" label="Order" max_length="40" name="u_order" type="string"/>
+        <element attributes="import_attribute_name=Support Category,edge_encryption_enabled=true" label="Support Category" max_length="40" name="u_support_category" type="string"/>
+        <element attributes="import_attribute_name=Support Type,edge_encryption_enabled=true" label="Support Type" max_length="40" name="u_support_type" type="string"/>
+    </element>
+</database>

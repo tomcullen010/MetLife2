@@ -4,6 +4,7 @@
         <access>public</access>
         <active>true</active>
         <api_name>x_snc_met_choices.getSupportType</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>Return valid Support Types  based on slected Support Category</description>
         <name>getSupportType</name>

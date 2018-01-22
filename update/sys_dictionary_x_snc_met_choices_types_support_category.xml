@@ -55,7 +55,7 @@
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2018-01-08 16:57:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>00643fd513af8740d70550f82244b0fe</sys_id>
+        <sys_id>259fe6d6db2b0380a8a6ff041d961989</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Support Category</sys_name>
         <sys_package display_value="Met Choices" source="x_snc_met_choices">0a13bf5513af8740d70550f82244b017</sys_package>
@@ -63,8 +63,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Met Choices">0a13bf5513af8740d70550f82244b017</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_met_choices_types_support_category</sys_update_name>
-        <sys_updated_by>tom.cullen</sys_updated_by>
-        <sys_updated_on>2018-01-08 16:57:01</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-11 14:27:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
